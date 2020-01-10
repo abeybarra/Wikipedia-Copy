@@ -1,3 +1,13 @@
-p {
-    color: black;
+#blue{
+    background-color: rgb(198, 241, 255);
+}
+#green{
+    background-color: rgb(195, 252, 195)
+}
+.column{
+    width: 15%;
+    float: left;
+}
+#background {
+    background-color: green;
 }
